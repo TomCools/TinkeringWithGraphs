@@ -1,0 +1,4 @@
+
+
+-- Serialization options:
+    graphml, graphson, gryo or custom Io.Builder
