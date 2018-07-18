@@ -18,5 +18,6 @@ public class MainTest {
         myWife.addEdge("married-to",me);
 
         g.io(GraphMLIo.build()).writeGraph("test.ml");
+
     }
 }
